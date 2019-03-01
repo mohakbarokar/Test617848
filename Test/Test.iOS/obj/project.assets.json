@@ -722,11 +722,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mohak/Projects/Test/Test.iOS/Test.iOS.csproj",
+      "projectUniqueName": "/Users/mohak/Desktop/Test617848/Test/Test.iOS/Test.iOS.csproj",
       "projectName": "Test.iOS",
-      "projectPath": "/Users/mohak/Projects/Test/Test.iOS/Test.iOS.csproj",
+      "projectPath": "/Users/mohak/Desktop/Test617848/Test/Test.iOS/Test.iOS.csproj",
       "packagesPath": "/Users/mohak/.nuget/packages/",
-      "outputPath": "/Users/mohak/Projects/Test/Test.iOS/obj",
+      "outputPath": "/Users/mohak/Desktop/Test617848/Test/Test.iOS/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mohak/.config/NuGet/NuGet.Config"
@@ -740,8 +740,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/mohak/Projects/Test/Test/Test.csproj": {
-              "projectPath": "/Users/mohak/Projects/Test/Test/Test.csproj"
+            "/Users/mohak/Desktop/Test617848/Test/Test/Test.csproj": {
+              "projectPath": "/Users/mohak/Desktop/Test617848/Test/Test/Test.csproj"
             }
           }
         }

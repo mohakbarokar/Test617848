@@ -351,11 +351,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mohak/Projects/Test/Test/Test.csproj",
+      "projectUniqueName": "/Users/mohak/Desktop/Test617848/Test/Test/Test.csproj",
       "projectName": "Test",
-      "projectPath": "/Users/mohak/Projects/Test/Test/Test.csproj",
+      "projectPath": "/Users/mohak/Desktop/Test617848/Test/Test/Test.csproj",
       "packagesPath": "/Users/mohak/.nuget/packages/",
-      "outputPath": "/Users/mohak/Projects/Test/Test/obj",
+      "outputPath": "/Users/mohak/Desktop/Test617848/Test/Test/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

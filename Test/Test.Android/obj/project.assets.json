@@ -784,11 +784,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mohak/Projects/Test/Test.Android/Test.Android.csproj",
+      "projectUniqueName": "/Users/mohak/Desktop/Test617848/Test/Test.Android/Test.Android.csproj",
       "projectName": "Test.Android",
-      "projectPath": "/Users/mohak/Projects/Test/Test.Android/Test.Android.csproj",
+      "projectPath": "/Users/mohak/Desktop/Test617848/Test/Test.Android/Test.Android.csproj",
       "packagesPath": "/Users/mohak/.nuget/packages/",
-      "outputPath": "/Users/mohak/Projects/Test/Test.Android/obj",
+      "outputPath": "/Users/mohak/Desktop/Test617848/Test/Test.Android/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mohak/.config/NuGet/NuGet.Config"
@@ -802,8 +802,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "/Users/mohak/Projects/Test/Test/Test.csproj": {
-              "projectPath": "/Users/mohak/Projects/Test/Test/Test.csproj"
+            "/Users/mohak/Desktop/Test617848/Test/Test/Test.csproj": {
+              "projectPath": "/Users/mohak/Desktop/Test617848/Test/Test/Test.csproj"
             }
           }
         }
